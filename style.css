@@ -2,4 +2,11 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  header {
+    text-align: center;
+  }
 }
+
+/*
+- **Update the header**: the text is a little wonky being aligned on the 
+left like that. Provide a property that aligns it in the center instead */
